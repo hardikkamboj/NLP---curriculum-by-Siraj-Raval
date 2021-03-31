@@ -10,3 +10,4 @@ But then i felt that I needed to study the fundamentals in a more detailed manne
 # Part 2
 Woah, this took a long time. I was going throught the lectures, which were very overwhleming for me. They were a bit advanced as to my current understanding. Then came the final project, which was building HMM using pytorch. I had never used pytorch before. So, went for some turotials from Sentdex. 
 After going through the tutorials, when i came back to HMM, it was maths heavy, and i will skip it for now..
+Today its 31-3-2021, it took me a couple of months to finish this.. And its a long time.
